@@ -2,7 +2,7 @@
 
 **`BS IT - Student (Creator/Frontend Developer)`**
 
-I am currently a BSIT student and a **`part-time`** contributor to various digital projects that align with my skills. I am learning **`frontend development`** and also plan to study **`backend development`**, with the goal of becoming a **`full-stack developer`**. If you would like to get in touch with me or have any other inquiries, please email me at <a href ="https://mail.google.com/mail/u/7/#inbox?compose=CllgCJvrbwfLBQJqFwVcNSHrDxNRMclnbTVQKpvChtCMwwXrKxhXhDljWBsKjqPXKhXdFzcjNJB">sa*****@gmail.com</a>. Let’s solve your task together.
+I am currently a BSIT student and a **`part-time`** contributor to various digital projects that align with my skills. I am learning **`frontend development`** and also plan to study **`backend development`**, with the goal of becoming a **`full-stack developer`**. If you would like to get in touch with me or have any other inquiries, please email me at <a>samson280607@gmail.com</a>. Let’s solve your task together.
 
 ##
 Languages and Tools
