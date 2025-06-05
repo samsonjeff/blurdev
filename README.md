@@ -17,5 +17,4 @@ Languages and Tools
   <img src= "https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src= "https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img src= "https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
-  <img src= "https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white" />
 </p>
